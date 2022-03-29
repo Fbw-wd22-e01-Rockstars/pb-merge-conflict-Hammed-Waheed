@@ -2,11 +2,10 @@
 
  # Berlin image 
 
-* List
-* of
-* bullet
-* points
+- List
+- of
+- bullet
+- points
 
-<p> There is changes in this file</p>
-
-<p>Here goes text paragraph between me and Samuel</p>
+<p> There is not a bug in this file</p>
+<p>Here goes the text paragraph</p>
