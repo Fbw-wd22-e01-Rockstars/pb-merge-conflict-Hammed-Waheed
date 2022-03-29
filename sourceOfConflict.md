@@ -7,6 +7,6 @@
 * bullet
 * points
 
-<p> There <span>is a bug</span> in this file</p>
+<p> There is changes in this file</p>
 
 <p>Here goes text paragraph between me and Samuel</p>
